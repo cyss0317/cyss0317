@@ -5,6 +5,8 @@
 <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="40px">   cyss0317@gmail.com
 
 ### About me
+Hello! My name is Yun Sung Choi. Thanks for checking out my Github profile.
+
 <a href="https://www.linkedin.com/in/yun-sung-choi-936142214/" target=_blank>
   <img height="40px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
 </a>&nbsp
@@ -34,8 +36,8 @@
   <img height="40px" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>&nbsp 
   <img height="40px" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
   <img height="40px" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>&nbsp 
-    <img height="40px" src="https://img.shields.io/badge/Adobe_Pohtoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>&nbsp 
-      <img height="40px" src="https://img.shields.io/badge/Adobe_Lightroom_Classic-9999FF?style=flat-square&logo=AdobeLightroomClassic&logoColor=white"/></a>&nbsp 
+  <img height="40px" src="https://img.shields.io/badge/Adobe_Pohtoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>&nbsp 
+  <img height="40px" src="https://img.shields.io/badge/Adobe_Lightroom_Classic-9999FF?style=flat-square&logo=AdobeLightroomClassic&logoColor=white"/></a>&nbsp 
 </p>
 
 ### Github Status
