@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/yun-sung-choi-936142214/" target=_blank>
   <img height="40px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
 </a>&nbsp
-<a href="https://jangcla.github.io/portfolio/" target=_blank>
+<a href="https://www.yunsungchoi.com" target=_blank>
  <img height="40px" src="https://img.shields.io/badge/Portfolio-3423A6?style=flat-square&logo=WebAuthn&logoColor=white"/>
 </a>&nbsp
 
