@@ -1,10 +1,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=cyss0317">
 
-### Contact me
-<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="40px">   cyss0317@gmail.com
 
-### About me
 Hello! My name is Yun Sung Choi. Thanks for checking out my Github profile.
 
 <a href="https://www.linkedin.com/in/yun-sung-choi-936142214/" target=_blank>
@@ -45,4 +42,5 @@ Hello! My name is Yun Sung Choi. Thanks for checking out my Github profile.
 ![Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyss0317&show_icons=true&theme=gruvbox)
 ![Yun's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cyss0317&layout=compact&theme=gruvbox)
 
-
+### Contact me
+<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="40px">   cyss0317@gmail.com
