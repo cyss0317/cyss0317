@@ -17,7 +17,7 @@ Hello! My name is Yun Sung Choi. Thanks for checking out my Github profile.
 
 <br />
 
-<p align="center"> Techs I used to build my projects </p>
+<p align="center"> Stacks I used to build my projects </p>
 
 <p align="center">
    <img height="40px" src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
